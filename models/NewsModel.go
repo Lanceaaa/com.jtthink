@@ -1,6 +1,6 @@
 package models
 
-type NewsService struct {
+type NewsModel struct {
 	Nid int
 	title, content string
 }

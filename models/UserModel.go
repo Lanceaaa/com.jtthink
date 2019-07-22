@@ -1,6 +1,13 @@
 package models
 
-type UserService struct {
-	Uid int
-	Name string
+import (
+)
+
+type UserModel struct {
+	User_name string
+	Signup_at string
+}
+
+func main()  {
+	
 }
