@@ -1,0 +1,1258 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="referrer" content="always" />
+    <title>新闻列表 - 第3页 - IT新闻 - 博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道" />
+    <meta name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico" />
+    <link rel="stylesheet" href="/Content/bundles/news.css?v=cuCwtDU8u3qMQmdg4FqdpiGm8kE_bdPAC8dwp2ZqiZ4" />
+    <link rel="stylesheet" type="text/css" href="//mention.cnblogs.com/css/mention-simple.css?id=20160613">
+    <link id="smallScreen" rel="stylesheet" type="text/css" media="screen and (max-width:768px)" href="/Content/smallScreen.css?v=GlO31drTET0WWWUZP_UBq7R7fDulVJecCIbanv3sLyM" />
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bundles/news.js?v=xHAXUHmJus-5gLWM1eBSB1d_z1Hn0lwrP1KMJFOse3Y"></script>
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/1090369/news_E1', [728, 90], 'div-gpt-ad-1533633736227-0').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E2', [300, 250], 'div-gpt-ad-1533633736227-1').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E3', [300, 250], 'div-gpt-ad-1533633736227-2').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E4', [468, 60], 'div-gpt-ad-1533633736227-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap"> 
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="//www.cnblogs.com" class="dark_gray" title="程序员的网上家园">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="//www.cnblogs.com"><img src="/Images/logo.gif" alt="logo" /></a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+                        <div id='e1'>
+                            <div id='div-gpt-ad-1533633736227-0' style='height:90px; width:728px;'>
+                                <script>
+                                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-0'); });
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="//group.cnblogs.com/forum/public/">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;"><a href="//www.cnblogs.com">首页</a></li>
+                    <li>
+                        <a href="//home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="//q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="//ing.cnblogs.com/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="//wz.cnblogs.com/">收藏</a>
+                    </li>
+                    <li>
+                        <a href="//job.cnblogs.com">招聘</a>
+                    </li>
+                    <li>
+                        <a href="//kb.cnblogs.com">知识库</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+        </div>
+        <div id="sideleft">
+    <div id="guide" style="display:none;">
+        <h3>
+            <a href="//www.cnblogs.com" title="程序员的网上家园">博客园</a> » <a href="/" title="IT新闻">新闻</a><span id="lbMobileAuditTips" style="display:none;"></span>
+        </h3>
+    </div>
+    <div id="navcontainer" class="floatright" style="padding-top: 1px;">
+        <ul id="navlist">
+            <li><a href="/" class="current">最新发布</a></li>
+            <li><a href="/n/recommend">推荐新闻</a></li>
+            <li><a href="/n/digg">热门新闻</a></li>
+            <li><a href="/n/comment">新闻评论</a></li>
+        </ul>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_628593">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628593,'agree')">
+                        <span id="digg_num_628593" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628593" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628593/" target="_blank">NASA 的月球轨道站是在做无用功</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_345.htm"><img src="https://img2018.cnblogs.com/news_topic/20190528103402943-154105954.png" class="topic_img" alt=""/></a>
+                        50 年前的阿波罗登月计划直截了当，发射登陆返回。但目前 NASA 的 2024 年登月计划则相对比较复杂：火箭首先需要发射一系列组件到月球轨道，利用自组装的方法建立小型的月球空间站。然后，火箭将发射一辆无人的月球登陆车到空间站。最后巨大的 Space Launch System (SLS) 火箭发
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628593#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">298 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%8E%A2%E6%9C%88/" class="gray">探月</a> </span>
+                        发布于 <span class="gray">2019-07-22 17:46</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628592">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628592,'agree')">
+                        <span id="digg_num_628592" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628592" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628592/" target="_blank">这比蚂蚁还小的机器人，不用电就能跑</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1518.htm"><img src="https://img2018.cnblogs.com/news_topic/20190722174113231-1210237630.png" class="topic_img" alt=""/></a>
+                        蚂蚁虽小，但团体出动起来就不容小觑，看过《蚁人》就明白。 现在，科学家做出了一款长 2 毫米，宽 1.8 毫米，厚 0.8 毫米，重 5 毫克的机器人， 比一般的蚂蚁都还要小。 这是由佐治亚理工学院团队研制的名为&#160;「微型鬃毛机器人（micro-bristle-bot）」的微型机器人。 由于体型微小，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628592#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">591 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/" class="gray">机器人</a> </span>
+                        发布于 <span class="gray">2019-07-22 17:33</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628591">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628591,'agree')">
+                        <span id="digg_num_628591" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628591" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628591/" target="_blank">世界500强最赚钱50家公司：苹果第二 三星第四</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        财富中文网于北京时间 2019 年 7 月 22 日与全球同步发布了最新的《财富》世界 500 强排行榜。 与上年相比，今年上榜 500 家公司的总营业收入近 32.7 万亿美元，同比增加 8.9%；总利润再创纪录达到 2.15 万亿美元，同比增加 14.5%；净利润率则达到 6.6%，净资产收益率
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628591#comment" class="gray" target="_blank">评论(4)</a></span><span class="view">1074 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E3%80%8A%E8%B4%A2%E5%AF%8C%E3%80%8B/" class="gray">《财富》</a> </span>
+                        发布于 <span class="gray">2019-07-22 17:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628590">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628590,'agree')">
+                        <span id="digg_num_628590" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628590" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628590/" target="_blank">专家研究表明阳光对健康的好处可能大于风险</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        作者：斌 斌 爱丁堡大学皮肤科专家一项有争议的研究表明，使阳光直接照射我们的皮肤益处将会大于坏处。 在炎热的夏日外出前涂上防晒霜已经成为一种集体文化习惯。当我们对自己或孩子不这样做时，我们会感到不负责任，因为我们被告知忽视定期涂抹防晒霜会导致皮肤癌。 但是阳光的照射会对高血压、心脏病、中风等十分有益
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628590#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">275 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%81%A5%E5%BA%B7/" class="gray">健康</a> </span>
+                        发布于 <span class="gray">2019-07-22 17:16</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628589">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628589,'agree')">
+                        <span id="digg_num_628589" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628589" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628589/" target="_blank">一线|瑞幸和Americana战略合作 开拓大中东及印度业务</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1213.htm"><img src="https://images2018.cnblogs.com/news_topic/20180515154619133-1755088138.png" class="topic_img" alt=""/></a>
+                        腾讯新闻《一线》 李思谊 7 月 22 日，瑞幸咖啡官方消息，瑞幸咖啡与中东地区最大的食品制造及销售公司 Americana 集团签署战略合作框架协议，双方计划共同设立合资公司，在大中东和印度地区开展咖啡新零售业务。 双方表示，大中东及印度地区拥有广泛的市场和发展前景，通过合作，瑞幸咖啡将凭借其领先
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628589#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">258 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%91%9E%E5%B9%B8/" class="gray">瑞幸</a> </span>
+                        发布于 <span class="gray">2019-07-22 17:11</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628588">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628588,'agree')">
+                        <span id="digg_num_628588" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628588" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628588/" target="_blank">北京大学：中国芯片梦起之地</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_914.htm"><img src="//images2015.cnblogs.com/news_topic/20170601125502508-1918327191.png" class="topic_img" alt=""/></a>
+                        看点：中国半导体专业化始于北大，一批海归大师汇集于此，由此孕育出北大半导体江湖。 1941 年，中华大地奏响极限艰难的抗战悲歌。头顶狂轰滥炸，地面炮火连天，高温火海、堤防骤溃、饥馁煎迫，几多地区犹如人间炼狱，生离死别不过早晚之间。 但这一切，还不足以扰动西南联大“内树学术自由，外筑民主堡垒”的精神内
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628588#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">451 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%8A%AF%E7%89%87/" class="gray">芯片</a> </span>
+                        发布于 <span class="gray">2019-07-22 17:04</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628587">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628587,'agree')">
+                        <span id="digg_num_628587" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628587" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628587/" target="_blank">限制卡路里摄入有助于改善健康</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        被称为卡路里限制的策略已被证实可延长各种生物的寿命，并降低它们患癌症及其他年龄相关疾病的几率。它是否能对人类起到同样的作用尚无定论。一项新研究表明，长期限制青壮年人的卡路里摄入可对他们的健康产生影响。 根据发表在《柳叶刀糖尿病与内分泌学》期刊上的研究，研究人员对一群年龄介乎 21 岁至 50 岁的 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628587#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">388 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%81%A5%E5%BA%B7/" class="gray">健康</a> </span>
+                        发布于 <span class="gray">2019-07-22 16:40</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628586">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628586,'agree')">
+                        <span id="digg_num_628586" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628586" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628586/" target="_blank">数学是通往星辰大海的密钥 四部门发文力推学科发展</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        科技日报记者&#160;操秀英 “如果走的路正确，中国在未来十年内可以发展成最好的数学强国。”著名华人数学家丘成桐此前在接受媒体采访时曾表示，只要政策支持、资金充裕，科研工作者拥有足够的发展空间，中国科学一定会有大发展。 这条路不容易，中国一直在努力。为切实加强我国数学科学研究，科技部办公厅、教育部办公厅、中
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628586#comment" class="gray" target="_blank">评论(3)</a></span><span class="view">551 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%95%B0%E5%AD%A6/" class="gray">数学</a> </span>
+                        发布于 <span class="gray">2019-07-22 16:13</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628585">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628585,'agree')">
+                        <span id="digg_num_628585" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628585" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628585/" target="_blank">沉寂数年，谷歌眼镜正在悄悄造福自闭症患儿</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1.htm"><img src="//images2015.cnblogs.com/news_topic/20150902111809872-2061679551.png" class="topic_img" alt=""/></a>
+                        在谷歌推出的众多失败产品中，谷歌眼镜（Google Glass） 大概是最为知名的。价格昂贵、设计尴尬、还触及隐私问题，这个 2013 年推出的探路者很快就销声匿迹了。然而 Facebook、苹果和微软公司纷纷发力智能眼镜，这也就意味着谷歌不会放弃。 一个事实是，在普通消费者用到谷歌眼镜遥遥无期的时
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628585#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">409 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%9C%BC%E7%9D%9B/" class="gray">眼睛</a> </span>
+                        发布于 <span class="gray">2019-07-22 16:04</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628584">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628584,'agree')">
+                        <span id="digg_num_628584" class="diggnum">6</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628584" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628584/" target="_blank">129家！世界500强中国上榜公司首超美国</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        作者：懒 猫 IT 之家7 月 22 日消息今日，美国《财富》（Fortune）杂志发布了最新的世界 500 强企业排行榜。进入榜单的 500 强企业中，有 129 家来自中国，历史上首次超过美国（121 家）。 相比 2018 年，今年上榜 500 家公司的总营业收入近 32.7 万亿美元，同比增
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628584#comment" class="gray" target="_blank">评论(70)</a></span><span class="view">3863 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E3%80%8A%E8%B4%A2%E5%AF%8C%E3%80%8B/" class="gray">《财富》</a> </span>
+                        发布于 <span class="gray">2019-07-22 15:49</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628583">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628583,'agree')">
+                        <span id="digg_num_628583" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628583" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628583/" target="_blank">《财富》2019年世界500强亏损排名：京东亏损3.77亿美元</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        作者：骑 士 IT 之家 7 月 22 日消息&#160;《财富》今天发布了世界 500 强排行榜，与上年相比，今年上榜 500 家公司的总营业收入近 32.7 万亿美元，同比增加 8.9%；总利润再创纪录达到 2.15 万亿美元，同比增加 14.5%；净利润率则达到 6.6%，净资产收益率达到 12.1%，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628583#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">847 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E3%80%8A%E8%B4%A2%E5%AF%8C%E3%80%8B/" class="gray">《财富》</a> </span>
+                        发布于 <span class="gray">2019-07-22 15:40</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628582">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628582,'agree')">
+                        <span id="digg_num_628582" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628582" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628582/" target="_blank">老板员工收入相差数千倍！旧金山拟征“CEO税”，缓解收入不平等</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_681.htm"><img src="https://img2018.cnblogs.com/news_topic/20190529091841990-1941427555.png" class="topic_img" alt=""/></a>
+                        【猎云网（微信号：ilieyun）】7 月 22 日报道（编译：柠萌） 编者注：本文作者为 Theodore Schleifer，外媒科技专栏作家。 社会贫富差距大、收入不平等现象愈演愈烈是美国社会的一大痼疾。但是，硅谷最富有的那些 CEO 应该承担责任，为此付出努力吗？ 这就是旧金山议员们计划在明
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628582#comment" class="gray" target="_blank">评论(3)</a></span><span class="view">550 人浏览</span>
+                        
+                        发布于 <span class="gray">2019-07-22 15:30</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628581">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628581,'agree')">
+                        <span id="digg_num_628581" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628581" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628581/" target="_blank">世界500强榜单揭晓：中国石化排名第二 科技企业苹果第一</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        作者：雪 花 今天，《财富》杂志发布 2019 年世界 500 强榜单，从排行榜来看，大家熟悉的一些科技企业都没有进入前十，而排名最靠前的就是苹果，排名第 11，与去年排名持平。 前十名榜单中，沃尔玛排在第一，中国石化和壳牌分列二到三位，三者对应的收入分别 5144.05 亿美元、4146.49 亿
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628581#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">751 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E3%80%8A%E8%B4%A2%E5%AF%8C%E3%80%8B/" class="gray">《财富》</a> </span>
+                        发布于 <span class="gray">2019-07-22 15:17</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628580">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628580,'agree')">
+                        <span id="digg_num_628580" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628580" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628580/" target="_blank">中国繁荣的点击农场</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        最大的智能手机市场中国有着一种独特的农业，其农作物是种在智能手机山上。被称为点击农场的作业使用成千上万部 iPhone 和 Android 手机，利用自动化程序搜索、点击和下载特定应用。这一做法旨在操纵应用商店的应用排名和搜索结果。 点击农场在中国非常盛行，官方 CCTV 去年称视频网站上的许多流行
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628580#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">628 人浏览</span>
+                        
+                        发布于 <span class="gray">2019-07-22 14:33</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628579">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628579,'agree')">
+                        <span id="digg_num_628579" class="diggnum">3</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628579" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628579/" target="_blank">一线丨小米正式成为世界500强企业</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_368.htm"><img src="//images0.cnblogs.com/news_topic/小米.gif" class="topic_img" alt=""/></a>
+                        腾讯新闻《一线》 王潘 7 月 22 日，美国《财富》杂志发布 2019 年世界 500 强排行榜。小米集团首次登榜，排名 468 位，在上榜的全球互联网企业中排名第7，在上榜的中国企业中排名第 112 位。 在榜单中，小米被定义为“互联网服务和零售”行业企业，成为继京东、阿里巴巴、腾讯之后第 4 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628579#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">1117 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%B0%8F%E7%B1%B3/" class="gray">小米</a> </span>
+                        发布于 <span class="gray">2019-07-22 14:25</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628578">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628578,'agree')">
+                        <span id="digg_num_628578" class="diggnum">3</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628578" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628578/" target="_blank">NASA：今年6月地球平均气温创下了新的历史纪录</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        有没有觉得，这个夏天温度越来越高了，这绝对不是你的错觉。 据 NASA 公布的数据显示，今年六月的全球平均气温比过去的标准气温高出 0.93 摄氏度，打破了 2016 年创下的 0.82 摄氏度。欧洲在六月份经历了热浪，法国有 13 个地点气温超过了有记录以来的最高温度。 在法国的 Gallargu
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628578#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">470 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%B0%94%E8%B1%A1/" class="gray">气象</a> </span>
+                        发布于 <span class="gray">2019-07-22 14:22</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628577">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628577,'agree')">
+                        <span id="digg_num_628577" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628577" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628577/" target="_blank">小爱同学App下架苹果App Store 网友：SiriOS警告？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_453.htm"><img src="//images0.cnblogs.com/news_topic/20150717121140860.png" class="topic_img" alt=""/></a>
+                        日前，有用户发现苹果 App Store 下架了小爱同学 App。以“小爱同学”为关键词在苹果 App Store 搜索，并不能找到小爱同学 App。 小爱同学是小米公司于 2017 年 7 月 26 日发布的首款人工智能音箱的唤醒词及二次元人物形象，搭载小爱同学的小米 AI 音箱最早发售于 201
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628577#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">808 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6/" class="gray">小爱同学</a> </span>
+                        发布于 <span class="gray">2019-07-22 14:12</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628576">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628576,'agree')">
+                        <span id="digg_num_628576" class="diggnum">8</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628576" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628576/" target="_blank">触目惊心！“深海勇士”号目击海底垃圾场</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1319.htm"><img src="https://img2018.cnblogs.com/news_topic/20181019124752178-1225982839.png" class="topic_img" alt=""/></a>
+                        科技日报记者&#160;崔爽 近日，“深海勇士”号在海底发现垃圾场的新闻引发震动。以往眼不见为净的海底，在潜水器的镜头中暴露了一切。据中国科学院深海科学与工程研究所研究员彭晓彤介绍，早在去年 5 月“深海勇士”号的科考中，就已在深海海底偶然发现了垃圾堆的存在。 海底的垃圾堆。同济大学钟广法教授独家提供 正在执
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628576#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">1183 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%8E%AF%E5%A2%83/" class="gray">环境</a> </span>
+                        发布于 <span class="gray">2019-07-22 13:51</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628575">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628575,'agree')">
+                        <span id="digg_num_628575" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628575" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628575/" target="_blank">MIT用超导体制成极低功耗神经元，能效接近人类大脑</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_778.htm"><img src="//images2015.cnblogs.com/news_topic/20161215114738698-1054154203.png" class="topic_img" alt=""/></a>
+                        晓查&#160;发自&#160;凹非寺 量子位&#160;出品&#160;公众号 QbitAI 计算机越来越智能，但是智能的算法却需要大量的资源。一台计算机以 GHz 的频率运行，功耗上千瓦。而人类的大脑运行速率比电脑慢几百万倍，只有约 20W 的功率，却能轻松做到这一切。 以战胜李世石的 AlphaGo 为例，它使用了 48 个 TPU
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628575#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">605 人浏览</span>
+                        
+                        发布于 <span class="gray">2019-07-22 13:43</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628574">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628574,'agree')">
+                        <span id="digg_num_628574" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628574" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628574/" target="_blank">侏罗纪末期的新物种：西班牙留下神秘足迹化石</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        李氏滑石板三叉足迹的模式标本 古生物学家用直升机搬运阿斯图里阿斯的足迹化石 新浪科技讯，北京时间 7 月 22 日消息，中美古生物学家在西班牙北部阿斯图里亚斯省（Asturias）和中国云南禄丰发现了一批特殊的足迹，这些足迹显示在侏罗纪-白垩纪之交的时候，这些地区生活着一类奇特的古鸟或鸟形恐龙，该发
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628574#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">410 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%80%83%E5%8F%A4/" class="gray">考古</a> </span>
+                        发布于 <span class="gray">2019-07-22 12:48</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628573">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628573,'agree')">
+                        <span id="digg_num_628573" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628573" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628573/" target="_blank">发射一颗自己的卫星，你准备好了吗？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        大数据文摘出品 编译：张卓骏、武帅 有没有想过，向头顶的星空发射一颗只属于自己的卫星？ 人造卫星曾是财力殷实的国家政府和资金雄厚的企业机构的独家玩具。但随着对太空的探索越来越大众化，相关的复杂技术也越来越普及。 这点和无人机的发展很像，微型卫星从根本上改变了我们的认知：头顶星空，吾亦可往。 随着阿波
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628573#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">531 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BA%BA%E9%80%A0%E5%8D%AB%E6%98%9F/" class="gray">人造卫星</a> </span>
+                        发布于 <span class="gray">2019-07-22 12:43</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628572">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628572,'agree')">
+                        <span id="digg_num_628572" class="diggnum">4</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628572" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628572/" target="_blank">暴雪三巨头走了两 精品游戏公司也要向钱看</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_124.htm"><img src="//images0.cnblogs.com/news_topic/blizz-logo.gif" class="topic_img" alt=""/></a>
+                        “暴雪出品必属精品”，曾几何时这是暴雪粉丝最大的骄傲。 作为 WOW 及暗黑玩家，我个人对这一点也认可的，哪怕 WOW 现在没人玩了，但它的制作精良依然秒杀 99%%网游，尽管 8.0 的剧情让人很不满。 但是暴雪这几年病的不轻，暴雪的粉丝都看得出来，游戏开发、运营有问题了，但根源在暴雪自己身上。 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628572#comment" class="gray" target="_blank">评论(3)</a></span><span class="view">1139 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%9A%B4%E9%9B%AA/" class="gray">暴雪</a> </span>
+                        发布于 <span class="gray">2019-07-22 12:33</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628571">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628571,'agree')">
+                        <span id="digg_num_628571" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628571" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628571/" target="_blank">Google 和解年龄歧视诉讼</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1.htm"><img src="//images2015.cnblogs.com/news_topic/20150902111809872-2061679551.png" class="topic_img" alt=""/></a>
+                        硅谷科技公司雇员的平均年龄都相当低，年长的应聘者要想进入是非常困难的。根据 2013 年的数据，Google 的年龄中位数是 29 岁。 芝加哥大学地球物理学博士 Cheryl Ann Fillekes 曾在 7 年时间里被 Google 的招聘人员联系了四次，她在电话面试中的表现都很不错，被邀请参
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628571#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">354 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%B0%B7%E6%AD%8C/" class="gray">谷歌</a> </span>
+                        发布于 <span class="gray">2019-07-22 12:19</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628570">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628570,'agree')">
+                        <span id="digg_num_628570" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628570" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628570/" target="_blank">状如“恶魔之眼”，不喷岩浆喷泥浆，这些火山到底藏着有什么秘密？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        2011 年，一位摄影师在俄罗斯库页岛的开阔地上空，拍到了一只巨大无比的“眼睛”，它一眨不眨地凝望着天空，甚至连眼球中呈放射状分布的“血丝”都清晰可见。 由于这只“眼睛”过于逼真，甚至有人将它称为“地球之眼”，但它的真身份其实是一座泥火山（mud volcano）。顾名思义，泥火山就是会喷泥浆的火山
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628570#comment" class="gray" target="_blank">评论(4)</a></span><span class="view">722 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%9C%B0%E7%90%86/" class="gray">地理</a> </span>
+                        发布于 <span class="gray">2019-07-22 11:53</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628569">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628569,'agree')">
+                        <span id="digg_num_628569" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628569" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628569/" target="_blank">空客展示“猛禽”电动概念飞机模型</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1517.htm"><img src="https://img2018.cnblogs.com/news_topic/20190722113016539-1553695276.jpg" class="topic_img" alt=""/></a>
+                        作者：沧 海 IT 之家 7 月 22 日消息据 FlightGlobal 消息，空客在 RIAT 上展出了命名为“猛禽”（Bird of Prey）的 80 座电动客机设计概念。这个方案采用了全复合材料机身和四个电力驱动螺旋桨的设计，航程为 1500 公里。 报道中指出，该电动客机最大的特点是模仿
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628569#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">491 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%94%B5%E5%8A%A8%E9%A3%9E%E6%9C%BA/" class="gray">电动飞机</a> </span>
+                        发布于 <span class="gray">2019-07-22 11:31</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628568">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628568,'agree')">
+                        <span id="digg_num_628568" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628568" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628568/" target="_blank">特斯拉与Neuralink风马牛不相及？错，人类或用思维驾车</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1510.htm"><img src="https://img2018.cnblogs.com/news_topic/20190717130604888-509934346.jpg" class="topic_img" alt=""/></a>
+                        潜伏在人类大脑中的某种东西，也许能帮助人们通过思维驾驶汽车 腾讯科技讯，7 月 22 日消息，据外媒报道，不久前参加人工智能（AI）自动驾驶汽车行业活动时，世界知名 AI 专家兰斯&#183;艾略特博士（Lance Eliot）被问及，埃隆&#183;马斯克(Elon Musk)与特斯拉公司的努力与其脑机接口初创企业 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628568#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">234 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3/" class="gray">脑机接口</a> </span>
+                        发布于 <span class="gray">2019-07-22 11:16</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628567">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628567,'agree')">
+                        <span id="digg_num_628567" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628567" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628567/" target="_blank">中国科创板开市 半导体股暴涨200%多</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        作者：宪 瑞 今天中国科创板正式开市，首批 25 家企业在上海证券交易所集体挂牌交易，科创板从计划到开市只用了 259 天，创造了中国股市的新纪录。 根据证券时报消息，科创板一出生，就旗帜鲜明地宣示：贯彻以信息披露为核心的注册制改革，遵循市场化原则，让标准更公开、程序更透明、责任更明确。从受理、审核
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628567#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">728 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%A7%91%E5%88%9B%E6%9D%BF/" class="gray">科创板</a> </span>
+                        发布于 <span class="gray">2019-07-22 11:10</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628566">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628566,'agree')">
+                        <span id="digg_num_628566" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628566" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628566/" target="_blank">微软示范AR虚拟“译员”，将对未来翻译行业造成冲击</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2.htm"><img src="//images0.cnblogs.com/news_topic/微软.png" class="topic_img" alt=""/></a>
+                        作者：微尘/实习 IT 之家 7 月 22 日消息&#160;随着 AR 技术的不断发展，目前已经逐渐趋于成熟。若搭配上其他新技术，便可以拥有极佳的效果。近期微软示范了一个 AR 虚拟的翻译人员，这位“译员”可以流畅地说出日语，未来将对跨语言交流起到重要作用。 在微软的 Inspire 大会上，微软官方向外界
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628566#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">321 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AR/" class="gray">AR</a> </span>
+                        发布于 <span class="gray">2019-07-22 11:01</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628565">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628565,'agree')">
+                        <span id="digg_num_628565" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628565" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628565/" target="_blank">IBM跨界食品行业：AI技术开发美食</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_88.htm"><img src="//images0.cnblogs.com/news_topic/ibm.gif" class="topic_img" alt=""/></a>
+                        作者：宪 瑞 本月初 IBM 宣布正式完成对 Redhat 红帽公司的收购，这是蓝色巨人在云服务市场上的一项重要布局，为此不惜花费 340 亿美元。 IBM 这些年已经不再参与消费级市场了，PC、X86 服务器等业务都卖了，除了云端业务另外的重点就是 AI 了，今年早些时候 IBM 还宣布跟食品公司
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628565#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">220 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%A3%9F%E5%93%81/" class="gray">食品</a> <a href="/n/tag/AI/" class="gray">AI</a> </span>
+                        发布于 <span class="gray">2019-07-22 10:44</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628564">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628564,'agree')">
+                        <span id="digg_num_628564" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628564" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628564/" target="_blank">你会尊重、关爱拥有理性思维的机器人吗？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        图说：当我们将机器人作为日常生活的一部分来对待，或者说将它们视为人类一样，这个崭新的世界将产生许多问题，我们如何应对它们呢？我们对机器人有道德责任吗？这些非人类拥有道德权利吗？或者我们有责任培养它们？ 新浪科技讯，北京时间 7 月 22 日消息，据国外媒体报道，想象一下这样的世界，它们像我们人类一样
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628564#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">172 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/" class="gray">机器人</a> </span>
+                        发布于 <span class="gray">2019-07-22 10:34</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+     <div class="pager"><a href="/n/page/2/">&lt; Prev</a><a href="/" class="p_1 first">1</a><a href="/n/page/2/" class="p_2 middle">2</a><a href="/n/page/3/" class="p_3 current">3</a><a href="/n/page/4/" class="p_4 middle">4</a><a href="/n/page/5/" class="p_5 middle">5</a><a href="/n/page/6/" class="p_6 middle">6</a><a href="/n/page/7/" class="p_7 middle">7</a><a href="/n/page/8/" class="p_8 middle">8</a><a href="/n/page/9/" class="p_9 middle">9</a><span class="ellipsis">···</span><a href="/n/page/100/" class="p_100 last">100</a><a href="/n/page/4/">Next &gt;</a></div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        LoadNewsCategory("NewsCategoryId",11,0);
+        //新闻列表-右侧编辑推荐新闻
+        CommonLoadNews("/NewsAjax/GetRecommendNews", "RecommendNewsId", 7);
+        //新闻列表-右侧今日新闻排行
+        CommonLoadNews("/NewsAjax/GetHotNews", "HotNewsId", 10);
+        //新闻列表-右侧24小时推荐排行
+        CommonLoadNews("/NewsAjax/GetHotByDiggCount", "HotByDiggCountId", 7);
+        //新闻列表-右侧热门IT新闻
+        CommonLoadNews("/NewsAjax/GetRecentHotNews", "RecentHotNewsId", 10);
+        //新闻列表-右侧最新评论
+        LoadSideComments("NewsIndexCommentsId", 15);
+        CheckAudit();
+        LoadIndexSideInfo();
+    });
+</script>
+        <div id="sideright">            
+            
+<div style="margin-top:25px;">
+    <span id="lbAuditTips" style="display:none;"></span>
+    <div class="news_home_navlink">
+        <div id="rss_sub_top" class="rss_sub">
+            <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅"><img src="//common.cnblogs.com/images/icon_rss.gif" alt="RSS订阅" /></a>
+        </div>
+        <div style="line-height:30px;">
+            &gt; <a href="/n/publish/" class="big redlink">投递新闻</a><br />
+            &gt; <a href="/n/date/" class="big">新闻日历</a><br />
+            &gt; <a href="/n/topiclist/" class="big">新闻主题</a><br />
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+    <br />
+    <div id="side_right_search">
+        <input type="text" id="google_search_q" size="27" class="side_right_search_q" onkeydown="return google_search_enter(event);" />
+        <input type="submit" name="sa" value="搜索新闻" class="side_right_search_sa" onclick="return google_search();" />
+    </div>
+<div class="side_block">
+    <div class="a4content" id="e2">
+        <div id='div-gpt-ad-1533633736227-1' style='height:250px; width:300px;'>
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-1'); });
+            </script>
+        </div>
+    </div>
+</div>
+    <div class="side_block" id="cate_news">
+        <h3 class="title_yellow">
+            新闻类别
+        </h3>
+        <div class="indent" id="NewsCategoryId">
+        </div>
+    </div>
+    <div id="HotNews1_panelToday">
+        <div class="side_block" id="last_news">
+            <h3 class="title_blue">
+                今日新闻排行
+            </h3>
+            <ul class="topnews block_list bt" id="HotNewsId">
+            </ul>
+        </div>
+    </div>
+    <div class="side_block">
+        <h3 class="title_yellow">
+            编辑推荐新闻
+        </h3>
+        <ul class="topnews block_list bt" id="RecommendNewsId">
+        </ul>
+    </div>
+    <div id="HotNews1_panelDiggTop">
+        <div class="side_block" id="Div1">
+            <h3 class="title_green">
+                24小时推荐排行
+            </h3>
+            <ul class="topnews block_list bt" id="HotByDiggCountId">
+            </ul>
+        </div>
+    </div>
+    <div class="side_block" id="hot_news">
+        <h3 class="title_red">
+            热门IT新闻
+        </h3>
+        <ul class="topnews block_list bt" id="RecentHotNewsId">
+        </ul>
+    </div>
+<div class="side_block">
+    <div id="e3">
+        <div id='div-gpt-ad-1533633736227-2' style='height:250px; width:300px;'>
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-2'); });
+            </script>
+        </div>
+    </div>
+</div>
+    <div class="side_block">
+        <h3 class="title_green">
+            最新评论
+        </h3>
+        <ul class="block_list" id="NewsIndexCommentsId">
+        </ul>
+        <a href="/Comment">
+            <img src="/Images/more_comment.gif" title="更多最新评论" style="float: right; margin: 7px;" alt="" />
+        </a>
+        <div style="clear: both;">
+        </div>
+    </div>
+    <a name="more"></a>
+    <div id="rss_sub_bottom" class="rss_sub">
+        <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅"><img src="//common.cnblogs.com/images/icon_rss_news.gif" alt="RSS订阅" /></a>
+        <a href="//news.cnblogs.com/m" rel="nofollow" title="博客园新闻频道手机版"><img src="/Images/ico_ing_cellphone.gif" alt="手机版" /></a>
+    </div>
+</div>
+
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="//www.cnblogs.com/AboutUS.aspx">关于博客园</a>
+                <a href="//www.cnblogs.com/ContactUs.aspx">联系我们</a>
+                <a href="//www.cnblogs.com/ad.aspx">广告服务</a>
+                <span>&copy;2004-2019</span>
+                <a href="//www.cnblogs.com">博客园</a>
+                 Powered by ASP.NET Core on Linux
+            </div>
+            <div id="footMobile" style="display:none;">
+                <span>&copy;2004-2019</span>&nbsp;<a href="//www.cnblogs.com">博客园</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-476124-8']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </div>
+</body>
+</html>

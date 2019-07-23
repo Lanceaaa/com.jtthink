@@ -9,7 +9,8 @@ import (
 	// "os"
 	_ "com.jtthink/models"
 	// "time"
-	// "strings"
+	"io/ioutil"
+	"net/http"
 )
 
 type all interface {
@@ -63,6 +64,22 @@ func main()  {
 	// c1 <- true
 	// fmt.Println(ret)
 
+	url := "https://news.cnblogs.com/n/page/%d/"
+
+	c := make(chan map[int][]byte)
+	for i := 1; i <= 3; i++ {
+		go func (index int)  {
+		    url := fmt.Sprintf(url, index)
+	        res, _ := http.Get(url)
+		    cnt, _ := ioutil.ReadAll(res.Body)
+		    c <- map[int][]byte{index:cnt}
+		} (i)
+	}
+	for getcnt := range c {
+		for k, v := range getcnt {
+		    ioutil.WriteFile(fmt.Sprintf("./files/%d", k), v, 666)
+		}
+	}
 
 	// end := time.Now()
 	// fmt.Println(end.Sub(start), ret1 + ret2)

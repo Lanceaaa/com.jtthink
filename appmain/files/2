@@ -1,0 +1,1258 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="referrer" content="always" />
+    <title>新闻列表 - 第2页 - IT新闻 - 博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道" />
+    <meta name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico" />
+    <link rel="stylesheet" href="/Content/bundles/news.css?v=cuCwtDU8u3qMQmdg4FqdpiGm8kE_bdPAC8dwp2ZqiZ4" />
+    <link rel="stylesheet" type="text/css" href="//mention.cnblogs.com/css/mention-simple.css?id=20160613">
+    <link id="smallScreen" rel="stylesheet" type="text/css" media="screen and (max-width:768px)" href="/Content/smallScreen.css?v=GlO31drTET0WWWUZP_UBq7R7fDulVJecCIbanv3sLyM" />
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bundles/news.js?v=xHAXUHmJus-5gLWM1eBSB1d_z1Hn0lwrP1KMJFOse3Y"></script>
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/1090369/news_E1', [728, 90], 'div-gpt-ad-1533633736227-0').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E2', [300, 250], 'div-gpt-ad-1533633736227-1').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E3', [300, 250], 'div-gpt-ad-1533633736227-2').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E4', [468, 60], 'div-gpt-ad-1533633736227-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap"> 
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="//www.cnblogs.com" class="dark_gray" title="程序员的网上家园">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="//www.cnblogs.com"><img src="/Images/logo.gif" alt="logo" /></a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+                        <div id='e1'>
+                            <div id='div-gpt-ad-1533633736227-0' style='height:90px; width:728px;'>
+                                <script>
+                                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-0'); });
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="//group.cnblogs.com/forum/public/">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;"><a href="//www.cnblogs.com">首页</a></li>
+                    <li>
+                        <a href="//home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="//q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="//ing.cnblogs.com/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="//wz.cnblogs.com/">收藏</a>
+                    </li>
+                    <li>
+                        <a href="//job.cnblogs.com">招聘</a>
+                    </li>
+                    <li>
+                        <a href="//kb.cnblogs.com">知识库</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+        </div>
+        <div id="sideleft">
+    <div id="guide" style="display:none;">
+        <h3>
+            <a href="//www.cnblogs.com" title="程序员的网上家园">博客园</a> » <a href="/" title="IT新闻">新闻</a><span id="lbMobileAuditTips" style="display:none;"></span>
+        </h3>
+    </div>
+    <div id="navcontainer" class="floatright" style="padding-top: 1px;">
+        <ul id="navlist">
+            <li><a href="/" class="current">最新发布</a></li>
+            <li><a href="/n/recommend">推荐新闻</a></li>
+            <li><a href="/n/digg">热门新闻</a></li>
+            <li><a href="/n/comment">新闻评论</a></li>
+        </ul>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_628624">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628624,'agree')">
+                        <span id="digg_num_628624" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628624" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628624/" target="_blank">内存两周涨价23% 三星要在韩国建氟化氢工厂</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_251.htm"><img src="//images0.cnblogs.com/news_topic/samsung.png" class="topic_img" alt=""/></a>
+                        作者：宪 瑞 由于日本本月初开始管制对韩国出口的氟聚酰亚胺、光刻胶及氟化氢三种材料，连跌了 3 个季度的内存价格走势开始扑朔迷离，因为这三种材料中有两种都会影响到半导体芯片生产，韩国三星、SK 海力士等公司都要依赖日本供应。 根据集邦科技旗下的半导体研究中心 DRAMeXchange 的数据，8Gb
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628624#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">591 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%B8%89%E6%98%9F/" class="gray">三星</a> </span>
+                        发布于 <span class="gray">2019-07-23 11:30</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628623">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628623,'agree')">
+                        <span id="digg_num_628623" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628623" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628623/" target="_blank">某明星拔完智齿，脸竟变成了这样…到底该不该拔？今天和你说清楚</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        本文专家:黄璐，Helen 齿科中心主任，中华口腔医学会会员 最近，演员乔欣拔完智齿后脸肿成表情包，让网友大呼可爱：拔个智齿脸咋肿成这个样子，确定不是特效？ 图片来源微博 怀着对拔牙的恐惧以及对金钱的渴望，智齿这种东西，很多人都是抱着“不疼坚决不拔”的心态过来的。 幸运的话不会疼，而一旦智齿蓄势待发
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628623#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">1397 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%A7%91%E6%99%AE/" class="gray">科普</a> </span>
+                        发布于 <span class="gray">2019-07-23 11:27</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628622">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628622,'agree')">
+                        <span id="digg_num_628622" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628622" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628622/" target="_blank">Intel仍是笔记本处理器的王者 10nm U单核干掉锐龙9</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_12.htm"><img src="//images0.cnblogs.com/news_topic/intel.gif" class="topic_img" alt=""/></a>
+                        作者：宪 瑞 在消费级桌面平台上，AMD 终于在第三代锐龙处理器上给 Intel 施以颜色了——7nm Zen2 架构的锐龙7、锐龙 9 处理器在单核、多核性能上跟九代酷睿都不相上下，性价比上则要好得多。 不过在笔记本处理器市场上，AMD 还差很远，一方面是市场份额提升的很慢（相对桌面而言），日前日
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628622#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">607 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%A4%84%E7%90%86%E5%99%A8/" class="gray">处理器</a> </span>
+                        发布于 <span class="gray">2019-07-23 11:08</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628621">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628621,'agree')">
+                        <span id="digg_num_628621" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628621" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628621/" target="_blank">7月26日见！华为Mate 20 X 5G正式官宣：国内首款5G双模手机</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_188.htm"><img src="//images0.cnblogs.com/news_topic/200782215744993.gif" class="topic_img" alt=""/></a>
+                        在一个月前举行的“中国移动 5G+ 发布会”上，中国移动正式宣布了关于 5G 商用的一些列细节信息，而作为 5G 商用中最重要的一环，诸多手机厂商也接连发布了旗下 5G 手机的最新动向。 其中，最受关注的消息自然要数华为 Mate 20 X5G 版已获得编号为 001 的电信设备进网许可证，正式宣告
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628621#comment" class="gray" target="_blank">评论(10)</a></span><span class="view">1013 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/5G/" class="gray">5G</a> </span>
+                        发布于 <span class="gray">2019-07-23 10:49</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628620">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628620,'agree')">
+                        <span id="digg_num_628620" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628620" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628620/" target="_blank">我们每次吞咽都和1.64亿年前有关</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        中国科学报记者&#160;唐凤&#160;廖洋 这块 1.64 亿年前的化石，是一只微小柱齿兽的最后记录。它是一种类似鼩鼱的微小哺乳型动物，也是动物进化出现代舌骨的最早例子。 “现在哺乳动物已经十分多样化，能通过不同方式咀嚼食物，但它们都以同样的方式咽下食物。”该研究资深作者、美国芝加哥大学解剖学和生物学教授罗哲西说，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628620#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">620 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%80%83%E5%8F%A4/" class="gray">考古</a> </span>
+                        发布于 <span class="gray">2019-07-23 10:45</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628600">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628600,'agree')">
+                        <span id="digg_num_628600" class="diggnum">4</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628600" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628600/" target="_blank">再创融资纪录！微软给了OpenAI十亿美元，研发超能AI</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2.htm"><img src="//images0.cnblogs.com/news_topic/微软.png" class="topic_img" alt=""/></a>
+                        迄今为止 AI 领域最大规模的单笔投资。 文：光谱 美国时间周一 7 月 22 日早间，全球最高调的人工智能科研机构，总部位于旧金山的&#160;OpenAI LP（营利机构）宣布了接受了微软的 10 亿美元投资，以加速“人工通用智能”(artificial general intelligence, 简称 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628600#comment" class="gray" target="_blank">评论(7)</a></span><span class="view">2076 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BE%AE%E8%BD%AF/" class="gray">微软</a> <a href="/n/tag/OpenAI/" class="gray">OpenAI</a> </span>
+                        发布于 <span class="gray">2019-07-23 10:29</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628619">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628619,'agree')">
+                        <span id="digg_num_628619" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628619" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628619/" target="_blank">回忆经典：首款Wi-Fi笔记本iBook</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="//images0.cnblogs.com/news_topic/apple.png" class="topic_img" alt=""/></a>
+                        上世纪 90 年代末重返苹果后，史蒂夫-乔布斯（Steve Jobs）提出了一个2&#215;2 的产品规划矩阵，以此为主旨去简化苹果当时臃肿的产品阵容。网格被划分为四个区块，横向是专业/消费领域、纵向则是桌面/便携产品。 今天，正是那款消费便携产品诞生二十周年的日子：1999 年的纽约 MacWorld 博
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628619#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">475 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/iBook/" class="gray">iBook</a> </span>
+                        发布于 <span class="gray">2019-07-23 10:22</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628618">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628618,'agree')">
+                        <span id="digg_num_628618" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628618" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628618/" target="_blank">华为邮件：对部分顶尖学生实行年薪制管理 最高200万元</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_188.htm"><img src="//images0.cnblogs.com/news_topic/200782215744993.gif" class="topic_img" alt=""/></a>
+                        腾讯科技讯，7 月 23 日消息，今日有消息称，华为总裁办签发的最新电子邮件显示，华为对部分 2019 届顶尖学生实行年薪制管理，年薪为 100 万~200 万元不等。 邮件表示，华为要用顶级的挑战和薪酬去吸引顶尖人才，今年将从全世界招进 20-30 名天才“少年”，今后逐渐增加，调整队伍作战能力结
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628618#comment" class="gray" target="_blank">评论(9)</a></span><span class="view">1129 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%8D%8E%E4%B8%BA/" class="gray">华为</a> </span>
+                        发布于 <span class="gray">2019-07-23 10:16</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628617">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628617,'agree')">
+                        <span id="digg_num_628617" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628617" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628617/" target="_blank">移动用户去世后号码无法过户引争议 中国移动：有权收回并再次销售</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_156.htm"><img src="//images0.cnblogs.com/news_topic/中国移动.jpg" class="topic_img" alt=""/></a>
+                        作者：小 淳 7 月 22 日，据国内媒体报道，一位中国移动用户去世，其亲属试图前往营业厅办理手机号过户，却被客服告知“需双方本人到场”才能办理。 据悉，今年 3 月，黄某相依为命的哥哥去世，因家中大小业务包括自己低保都预存着哥哥手机号，他就带着哥哥死亡证明去移动营业厅办理号码过户，但屡被以“需双方
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628617#comment" class="gray" target="_blank">评论(11)</a></span><span class="view">1379 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%83%AD%E8%AE%AE/" class="gray">热议</a> </span>
+                        发布于 <span class="gray">2019-07-23 09:23</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628616">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628616,'agree')">
+                        <span id="digg_num_628616" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628616" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628616/" target="_blank">三种方法测出三个哈勃常数，到底哪个准？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_319.htm"><img src="https://img2018.cnblogs.com/news_topic/20181019121101783-952728829.gif" class="topic_img" alt=""/></a>
+                        今日视点 科技日报记者&#160;刘&#160;霞 自上世纪 20 年代以来，美国天文学家哈德温&#183;哈勃的观测让科学家知道，宇宙在不断膨胀。那么，宇宙的膨胀速度有多快——也即所谓的哈勃常数有多大呢？ 哈勃常数是宇宙参数，在各种各样的宇宙学计算中都扮演非常重要的角色，它决定了宇宙的绝对规模、大小和年龄，是我们量化宇宙演化最
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628616#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">270 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%A4%A9%E6%96%87/" class="gray">天文</a> </span>
+                        发布于 <span class="gray">2019-07-23 09:13</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628615">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628615,'agree')">
+                        <span id="digg_num_628615" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628615" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628615/" target="_blank">NASA尝试在国际空间站种辣椒</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_345.htm"><img src="https://img2018.cnblogs.com/news_topic/20190528103402943-154105954.png" class="topic_img" alt=""/></a>
+                        科技日报北京 7 月 22 日电&#160;（记者张梦然）据美国有线电视新闻网（CNN）近日报道，美国意图在本世纪 30 年代载人登陆火星，而为了应对宇航员在未来深空旅程中的营养缺失问题，美国国家航空航天局（NASA）正努力尝试在太空种植各种植物，目前瞄准的目标是——辣椒。如顺利，辣椒将成为在国际空间站第一个
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628615#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">259 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%88%AA%E5%A4%A9/" class="gray">航天</a> </span>
+                        发布于 <span class="gray">2019-07-23 09:12</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628614">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628614,'agree')">
+                        <span id="digg_num_628614" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628614" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628614/" target="_blank">波场基金会：巴菲特同意重新安排时间</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_928.htm"><img src="https://img2018.cnblogs.com/news_topic/20190723090403999-223367979.png" class="topic_img" alt=""/></a>
+                        6 月 1 日，第 20 届与沃伦&#183;巴菲特 (Warren Buffett) 共进权力午餐 (Power Lunch) eBay 慈善拍卖活动结束，此次拍卖成交价达到约 457 万美元（约合人民币 3155 万元），随后孙宇晨宣布自己拍下巴菲特慈善午餐，并为此大肆造势。彼时孙宇晨确定在 7 月 25
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628614#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">657 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%AD%99%E5%AE%87%E6%99%A8/" class="gray">孙宇晨</a> <a href="/n/tag/%E5%B7%B4%E8%8F%B2%E7%89%B9/" class="gray">巴菲特</a> </span>
+                        发布于 <span class="gray">2019-07-23 08:59</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628613">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628613,'agree')">
+                        <span id="digg_num_628613" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628613" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628613/" target="_blank">字节跳动宣布在印度建数据中心 存储本地用户数据</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1365.htm"><img src="https://img2018.cnblogs.com/news_topic/20190123182424035-756614847.png" class="topic_img" alt=""/></a>
+                        原标题：TikTok: China&#39;s ByteDance to store Indian data locally after MPs raise concerns on privacy， national security 网易科技讯，7 月 23 日消息，据印媒报道，字节跳动宣布将在印度建立数
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628613#comment" class="gray" target="_blank">评论(5)</a></span><span class="view">483 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/" class="gray">字节跳动</a> </span>
+                        发布于 <span class="gray">2019-07-23 08:56</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628612">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628612,'agree')">
+                        <span id="digg_num_628612" class="diggnum">8</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628612" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628612/" target="_blank">微软官方上线 Python 教程</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_71.htm"><img src="//images0.cnblogs.com/news_topic/python.gif" class="topic_img" alt=""/></a>
+                        微软近日上线了一套&#160;Python 教程《Develop with Python on Windows》，文档内容包括设置 Python 开发环境、在 Windows 与 WSL 子系统中安装相应开发工具，以及集成 VS Code 与 Git 工具并进行开发等。 具体来看，课程有以下几个章节： 入门使
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628612#comment" class="gray" target="_blank">评论(7)</a></span><span class="view">2806 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Python/" class="gray">Python</a> </span>
+                        发布于 <span class="gray">2019-07-23 08:50</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628611">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628611,'agree')">
+                        <span id="digg_num_628611" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628611" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628611/" target="_blank">揭秘头骨之谜：人类头骨22块，鱼类多达156块！</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        在许多种类的动物中，它们的头骨是由几十块骨骼组成的，图中呈现的是短吻鳄的头骨，它的头骨是由 50 多块骨骼构成。迄今发现头骨数量最多的是一种远古灭绝鱼类，多达 156 块。 新浪科技讯，北京时间 7 月 23 日消息，据美国生活科学网站报道，人类头骨中有多少块骨头？你可能会认为头骨仅是两块骨骼构成：
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628611#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">483 人浏览</span>
+                        
+                        发布于 <span class="gray">2019-07-23 08:43</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628610">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628610,'agree')">
+                        <span id="digg_num_628610" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628610" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628610/" target="_blank">LG宣布将在韩国投资26亿美元，生产OLED面板</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_267.htm"><img src="//images0.cnblogs.com/news_topic/lg.png" class="topic_img" alt=""/></a>
+                        原标题：LG Display to invest $2.6 billion in OLED panel plant in South Korea 网易科技讯，7 月 23 日消息，据国外媒体报道，韩国显示器面板制造商 LG 显示公司（LG Display）周二表示，它将对自己位于韩国的有机发光二极管
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628610#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">172 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/LG/" class="gray">LG</a> </span>
+                        发布于 <span class="gray">2019-07-23 08:33</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628609">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628609,'agree')">
+                        <span id="digg_num_628609" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628609" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628609/" target="_blank">黑洞是宇宙范围内的毁灭引擎，但也可以&quot;带来生命&quot;!</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_319.htm"><img src="https://img2018.cnblogs.com/news_topic/20181019121101783-952728829.gif" class="topic_img" alt=""/></a>
+                        一项关于超大质量黑洞的最新研究表明，当黑洞疯狂吞噬宇宙物质时释放的辐射产生生物分子的构建模块，甚至还能提供光合作用的动力 新浪科技讯，北京时间 7 月 23 日消息，据美国生活科学网站报道，黑洞是宇宙范围内的毁灭引擎，但它也可以“带来生命”！一项关于超大质量黑洞的最新研究表明，当黑洞疯狂吞噬宇宙物质
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628609#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">392 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%A4%A9%E6%96%87/" class="gray">天文</a> </span>
+                        发布于 <span class="gray">2019-07-23 08:26</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628608">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628608,'agree')">
+                        <span id="digg_num_628608" class="diggnum">4</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628608" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628608/" target="_blank">雷军向2万多员工每人发1000股小米股票 约7880元</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_368.htm"><img src="//images0.cnblogs.com/news_topic/小米.gif" class="topic_img" alt=""/></a>
+                        腾讯新闻《一线》 王潘 7 月 22 日晚，小米创始人雷军下发全员邮件称，为庆祝小米进入世界 500 强，感谢每一位持续奋斗的小米同学们和在背后支持的家人，将赠予每位小米同学 1000 股小米集团股票，其中，500 股是给小米每一个人的全球 500 强成就纪念，另外 500 股，是小米给每位同事和伙
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628608#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">1189 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%B0%8F%E7%B1%B3/" class="gray">小米</a> </span>
+                        发布于 <span class="gray">2019-07-23 08:18</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628607">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628607,'agree')">
+                        <span id="digg_num_628607" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628607" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628607/" target="_blank">犹如摇钱树，软银上季度卖阿里股票赚了111亿美元</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_825.htm"><img src="//images2015.cnblogs.com/news_topic/20170215120802707-1327265605.png" class="topic_img" alt=""/></a>
+                        原标题：SoftBank&#39;s magic lamp keeps sending the Alibaba genie 网易科技讯 7 月 23 日消息，据日本媒体报道，就像迪士尼电影《阿拉丁》(Aladdin)中无所不能的神灯精灵一样，阿里巴巴集团不断地满足软银集团的种种愿望，给它带来源源不断的资金。
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628607#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">761 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%BD%AF%E9%93%B6/" class="gray">软银</a> <a href="/n/tag/%E9%98%BF%E9%87%8C/" class="gray">阿里</a> </span>
+                        发布于 <span class="gray">2019-07-23 07:50</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628606">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628606,'agree')">
+                        <span id="digg_num_628606" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628606" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628606/" target="_blank">传苹果将超10亿美元收购英特尔调制解调器芯片业务</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="//images0.cnblogs.com/news_topic/apple.png" class="topic_img" alt=""/></a>
+                        腾讯科技讯，据外媒报道，消息人士周一透露，苹果目前正与英特尔就收购调制解调器芯片资产展开谈判。包括该业务的知识产权和专利，此交易的总价超过 10 亿美元。 据悉，苹果与英特尔最快将于下周公布这一交易。受此消息推动，英特尔股价在周一盘后交易中上涨 1.27%，股价至 52.00 美元。智能手机领先调制
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628606#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">167 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%8B%B9%E6%9E%9C/" class="gray">苹果</a> </span>
+                        发布于 <span class="gray">2019-07-23 07:38</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628605">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628605,'agree')">
+                        <span id="digg_num_628605" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628605" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628605/" target="_blank">百亿年前银河系1/4质量生吞而来</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_319.htm"><img src="https://img2018.cnblogs.com/news_topic/20181019121101783-952728829.gif" class="topic_img" alt=""/></a>
+                        科技日报北京 7 月 22 日电&#160;（记者张梦然）据英国《自然&#183;天文学》杂志 22 日在线发表的一项最新报告，欧洲科学家指出，银河系曾在 100 亿年前吞并过一个质量是其四分之一的星系。该研究同时对银河系恒星的年龄做出了迄今最准确测定，并绘制而成了最新分布图。 星系是逐级形成和演化的，较小的星系会并合
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628605#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">212 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%A4%A9%E6%96%87/" class="gray">天文</a> </span>
+                        发布于 <span class="gray">2019-07-23 07:34</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628604">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628604,'agree')">
+                        <span id="digg_num_628604" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628604" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628604/" target="_blank">孙宇晨取消与巴菲特会面 因突发肾结石正于医院治疗</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1469.htm"><img src="https://img2018.cnblogs.com/news_topic/20190723073026648-414531295.png" class="topic_img" alt=""/></a>
+                        网易科技讯 7 月 23 日消息波场创始人孙宇晨今日早间发微博表示，因突发肾结石正于医院治疗，因故取消与巴菲特先生的午餐会面。同时称对于格莱德基金会的捐赠已经完成，仍然有效。 以下为孙宇晨微博原文：
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628604#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">650 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%AD%99%E5%AE%87%E6%99%A8/" class="gray">孙宇晨</a> <a href="/n/tag/%E5%B7%B4%E8%8F%B2%E7%89%B9/" class="gray">巴菲特</a> </span>
+                        发布于 <span class="gray">2019-07-23 07:20</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628603">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628603,'agree')">
+                        <span id="digg_num_628603" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628603" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628603/" target="_blank">首个硅中双原子量子比特门问世</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        科技日报北京 7 月 22 日电&#160;（记者刘霞）据物理学家组织网近日报道，由澳大利亚新南威尔士大学的米歇尔&#183;西蒙斯领导的团队，创建出了首个硅中双原子量子比特门，操作在 0.8 纳秒内完成，比目前其他基于自旋的双量子比特门快 200 倍，是迄今在硅中展示最快的，成为构建原子级量子计算机的一个重要里程碑。
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628603#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">130 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA/" class="gray">量子计算机</a> </span>
+                        发布于 <span class="gray">2019-07-23 07:10</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628601">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628601,'agree')">
+                        <span id="digg_num_628601" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628601" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628601/" target="_blank">华为EMUI 9.1全面开放升级：方舟编译器、EROFS超级文件系统</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_188.htm"><img src="//images0.cnblogs.com/news_topic/200782215744993.gif" class="topic_img" alt=""/></a>
+                        作者：骑 士 IT 之家 7 月 22 日消息&#160;华为 EMUI 官方今晚宣布，EMUI 9.1 全面开放升级，此次升级的机型有：华为 P20、P20 Pro，华为 Mate 10、Mate 10 Pro、Mate 10 保时捷设计、Mate RS 保时捷设计，华为 nova 3，荣耀 10，荣耀 V
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628601#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">930 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/EMUI/" class="gray">EMUI</a> </span>
+                        发布于 <span class="gray">2019-07-22 22:32</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628599">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628599,'agree')">
+                        <span id="digg_num_628599" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628599" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628599/" target="_blank">浏览器的隐身模式有多隐身？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        微软、卡内基梅隆和宾夕法尼亚大学的研究人员的研究（预印本 PDF）发现，在隐身模式下，Google、Facebook 甚至甲骨文都有可能跟踪你的色情浏览历史。 研究人员利用开源工具 webxray&#160;分析了 2.2 万多个色情网站，发现 74% 的网站嵌入了 Google 的跟踪代码，10% 嵌入了 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628599#comment" class="gray" target="_blank">评论(3)</a></span><span class="view">804 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%B5%8F%E8%A7%88%E5%99%A8/" class="gray">浏览器</a> </span>
+                        发布于 <span class="gray">2019-07-22 21:40</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628598">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628598,'agree')">
+                        <span id="digg_num_628598" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628598" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628598/" target="_blank">Windows Defender 将更名为 Microsoft Defender</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2.htm"><img src="//images0.cnblogs.com/news_topic/微软.png" class="topic_img" alt=""/></a>
+                        微软开始越来越多的着重于提供跨平台服务，它的产品逐渐出现在竞争对手的平台上，今年初它将杀毒软件服务 Windows Defender 带到了 macOS 平台，并将其更名为 Microsoft Defender。未来，Windows 平台的 Windows Defender&#160;也将会改名为 Micro
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628598#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">329 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BE%AE%E8%BD%AF/" class="gray">微软</a> </span>
+                        发布于 <span class="gray">2019-07-22 21:11</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628597">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628597,'agree')">
+                        <span id="digg_num_628597" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628597" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628597/" target="_blank">日本通信商DoCoMo宣布将向访日旅客提供免费WiFi</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1419.htm"><img src="https://img2018.cnblogs.com/news_topic/20190718162847454-1963906530.png" class="topic_img" alt=""/></a>
+                        作者：阿 迷 IT 之家 7 月 22 日消息据《日本经济新闻》报道，日本通信商 NTT DoCoMo 宣布将在 2020 年东京奥运会和残奥会开幕前向访日外国人提供免费的 WiFi 服务。 据了解，这项福利措施只需要游客注册 DoCoMo 的积分会员就能在日本的地铁站、餐饮店等数十万处地点使用免费
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628597#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">200 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/WiFi/" class="gray">WiFi</a> </span>
+                        发布于 <span class="gray">2019-07-22 20:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628596">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628596,'agree')">
+                        <span id="digg_num_628596" class="diggnum">3</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628596" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628596/" target="_blank">蓝箭航天80吨液氧甲烷发动机100%推力100秒试车成功</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1313.htm"><img src="https://img2018.cnblogs.com/news_topic/20180928130057173-1940303455.png" class="topic_img" alt=""/></a>
+                        腾讯科技讯，2019 年 7 月 19 日和 21 日，民营火箭企业蓝箭航天（蓝箭航天空间科技股份有限公司） “天鹊”TQ-12 液氧甲烷发动机100% 推力试车圆满成功，最长试车时间 100 秒。 本轮试车过程中，发动机起动关机迅速平稳，实测性能数据优于设计指标。发动机总体方案、起动关机程序、喷管
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628596#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">290 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%88%AA%E5%A4%A9/" class="gray">航天</a> </span>
+                        发布于 <span class="gray">2019-07-22 20:15</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628595">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628595,'agree')">
+                        <span id="digg_num_628595" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628595" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628595/" target="_blank">科创板开市暴涨，详解25家企业的“造富”能力</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        燃财经（ID:rancaijing）原创 作者：唐亚华黎明，编辑：魏佳 首批 25 家科创板企业，正式上市交易了。 历时八个多月，250 多天，科创板终于在 7 月 22 日鸣锣开市，中国资本市场进入“科创板时代”。 从股价表现来看，开市即大涨，一度有 4 只股票涨幅在 200% 以上，但随后高开低
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628595#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">539 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%A7%91%E5%88%9B%E6%9D%BF/" class="gray">科创板</a> </span>
+                        发布于 <span class="gray">2019-07-22 18:10</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_628594">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(628594,'agree')">
+                        <span id="digg_num_628594" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_628594" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/628594/" target="_blank">印度“月船二号“探测器升空 欲冲击软着陆月球第四国</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1434.htm"><img src="https://img2018.cnblogs.com/news_topic/20190531132733484-1747468447.png" class="topic_img" alt=""/></a>
+                        腾讯科技讯（乔辉）北京时间 7 月 22 日 17 点 13 分，印度太空研究机构（ISRO）的“月船二号”月球探测器发射升空，执行本次发射任务的是一枚名为 GSLV MarkIII 的运载火箭，其实，该火箭设计主要用来发射地球同步卫星，也是目前印度最强运载火箭。 截止发稿，“月船二号”探测器已成功
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/628594#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">371 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%8E%A2%E6%9C%88/" class="gray">探月</a> </span>
+                        发布于 <span class="gray">2019-07-22 17:54</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+     <div class="pager"><a href="/">&lt; Prev</a><a href="/" class="p_1 first">1</a><a href="/n/page/2/" class="p_2 current">2</a><a href="/n/page/3/" class="p_3 middle">3</a><a href="/n/page/4/" class="p_4 middle">4</a><a href="/n/page/5/" class="p_5 middle">5</a><a href="/n/page/6/" class="p_6 middle">6</a><a href="/n/page/7/" class="p_7 middle">7</a><a href="/n/page/8/" class="p_8 middle">8</a><a href="/n/page/9/" class="p_9 middle">9</a><span class="ellipsis">···</span><a href="/n/page/100/" class="p_100 last">100</a><a href="/n/page/3/">Next &gt;</a></div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        LoadNewsCategory("NewsCategoryId",11,0);
+        //新闻列表-右侧编辑推荐新闻
+        CommonLoadNews("/NewsAjax/GetRecommendNews", "RecommendNewsId", 7);
+        //新闻列表-右侧今日新闻排行
+        CommonLoadNews("/NewsAjax/GetHotNews", "HotNewsId", 10);
+        //新闻列表-右侧24小时推荐排行
+        CommonLoadNews("/NewsAjax/GetHotByDiggCount", "HotByDiggCountId", 7);
+        //新闻列表-右侧热门IT新闻
+        CommonLoadNews("/NewsAjax/GetRecentHotNews", "RecentHotNewsId", 10);
+        //新闻列表-右侧最新评论
+        LoadSideComments("NewsIndexCommentsId", 15);
+        CheckAudit();
+        LoadIndexSideInfo();
+    });
+</script>
+        <div id="sideright">            
+            
+<div style="margin-top:25px;">
+    <span id="lbAuditTips" style="display:none;"></span>
+    <div class="news_home_navlink">
+        <div id="rss_sub_top" class="rss_sub">
+            <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅"><img src="//common.cnblogs.com/images/icon_rss.gif" alt="RSS订阅" /></a>
+        </div>
+        <div style="line-height:30px;">
+            &gt; <a href="/n/publish/" class="big redlink">投递新闻</a><br />
+            &gt; <a href="/n/date/" class="big">新闻日历</a><br />
+            &gt; <a href="/n/topiclist/" class="big">新闻主题</a><br />
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+    <br />
+    <div id="side_right_search">
+        <input type="text" id="google_search_q" size="27" class="side_right_search_q" onkeydown="return google_search_enter(event);" />
+        <input type="submit" name="sa" value="搜索新闻" class="side_right_search_sa" onclick="return google_search();" />
+    </div>
+<div class="side_block">
+    <div class="a4content" id="e2">
+        <div id='div-gpt-ad-1533633736227-1' style='height:250px; width:300px;'>
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-1'); });
+            </script>
+        </div>
+    </div>
+</div>
+    <div class="side_block" id="cate_news">
+        <h3 class="title_yellow">
+            新闻类别
+        </h3>
+        <div class="indent" id="NewsCategoryId">
+        </div>
+    </div>
+    <div id="HotNews1_panelToday">
+        <div class="side_block" id="last_news">
+            <h3 class="title_blue">
+                今日新闻排行
+            </h3>
+            <ul class="topnews block_list bt" id="HotNewsId">
+            </ul>
+        </div>
+    </div>
+    <div class="side_block">
+        <h3 class="title_yellow">
+            编辑推荐新闻
+        </h3>
+        <ul class="topnews block_list bt" id="RecommendNewsId">
+        </ul>
+    </div>
+    <div id="HotNews1_panelDiggTop">
+        <div class="side_block" id="Div1">
+            <h3 class="title_green">
+                24小时推荐排行
+            </h3>
+            <ul class="topnews block_list bt" id="HotByDiggCountId">
+            </ul>
+        </div>
+    </div>
+    <div class="side_block" id="hot_news">
+        <h3 class="title_red">
+            热门IT新闻
+        </h3>
+        <ul class="topnews block_list bt" id="RecentHotNewsId">
+        </ul>
+    </div>
+<div class="side_block">
+    <div id="e3">
+        <div id='div-gpt-ad-1533633736227-2' style='height:250px; width:300px;'>
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-2'); });
+            </script>
+        </div>
+    </div>
+</div>
+    <div class="side_block">
+        <h3 class="title_green">
+            最新评论
+        </h3>
+        <ul class="block_list" id="NewsIndexCommentsId">
+        </ul>
+        <a href="/Comment">
+            <img src="/Images/more_comment.gif" title="更多最新评论" style="float: right; margin: 7px;" alt="" />
+        </a>
+        <div style="clear: both;">
+        </div>
+    </div>
+    <a name="more"></a>
+    <div id="rss_sub_bottom" class="rss_sub">
+        <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅"><img src="//common.cnblogs.com/images/icon_rss_news.gif" alt="RSS订阅" /></a>
+        <a href="//news.cnblogs.com/m" rel="nofollow" title="博客园新闻频道手机版"><img src="/Images/ico_ing_cellphone.gif" alt="手机版" /></a>
+    </div>
+</div>
+
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="//www.cnblogs.com/AboutUS.aspx">关于博客园</a>
+                <a href="//www.cnblogs.com/ContactUs.aspx">联系我们</a>
+                <a href="//www.cnblogs.com/ad.aspx">广告服务</a>
+                <span>&copy;2004-2019</span>
+                <a href="//www.cnblogs.com">博客园</a>
+                 Powered by ASP.NET Core on Linux
+            </div>
+            <div id="footMobile" style="display:none;">
+                <span>&copy;2004-2019</span>&nbsp;<a href="//www.cnblogs.com">博客园</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-476124-8']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </div>
+</body>
+</html>
