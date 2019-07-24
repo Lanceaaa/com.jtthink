@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+    "fmt"
     _ "com.jtthink/services"
 	// . "com.jtthink/core"
 	_ "github.com/go-sql-driver/mysql"
@@ -11,16 +11,15 @@ import (
 	// "time"
 	"io/ioutil"
 	"net/http"
+	"sync"
 )
 
 type all interface {
 
 }
 
-func test(str ...string) {
-	for _, v := range str {
-		fmt.Println(v)
-	}
+func test() {
+	panic("exp")
 }
 
 func sum(min, max int, c chan int)  {
@@ -65,21 +64,38 @@ func main()  {
 	// fmt.Println(ret)
 
 	url := "https://news.cnblogs.com/n/page/%d/"
+	var wg sync.WaitGroup
 
-	c := make(chan map[int][]byte)
-	for i := 1; i <= 3; i++ {
+	for i := 1; i <= 10; i++ {
 		go func (index int)  {
+			defer func ()  {
+				if err := recover();err != nil {
+					fmt.Println(err)
+				}
+				wg.Done()
+			} ()
 		    url := fmt.Sprintf(url, index)
 	        res, _ := http.Get(url)
-		    cnt, _ := ioutil.ReadAll(res.Body)
-		    c <- map[int][]byte{index:cnt}
+			cnt, _ := ioutil.ReadAll(res.Body)
+			ioutil.WriteFile(fmt.Sprintf("./files/%d", index), cnt, 666)
 		} (i)
+		wg.Add(1)
 	}
-	for getcnt := range c {
-		for k, v := range getcnt {
-		    ioutil.WriteFile(fmt.Sprintf("./files/%d", k), v, 666)
-		}
-	}
+
+	wg.Wait()
+	fmt.Println("抓取完毕")
+
+	// result := map[int][]byte{}
+	// myloop:for {
+	// 	select {
+	// 		case result = <- c:
+	// 			for k, v := range result{
+	// 				ioutil.WriteFile(fmt.Sprintf("./files/%d", k), v, 666)
+	// 			}
+	// 		case <-time.After(time.Second*3):
+	// 			break myloop
+	// 	}
+	// }
 
 	// end := time.Now()
 	// fmt.Println(end.Sub(start), ret1 + ret2)
