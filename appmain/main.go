@@ -9,8 +9,13 @@ import (
 	// "os"
 	_ "com.jtthink/models"
 	// "time"
-	"io/ioutil"
-	"net/http"
+	// "io/ioutil"
+	// "net/http"
+	// "bytes"
+	"io"
+	"os"
+	"bufio"
+	"sync"
 )
 
 type all interface {
@@ -33,6 +38,33 @@ func sum(min, max int, c chan int)  {
 
 func main()  {
 	// fmt.Println(GetService().Get(123))
+
+	var wg sync.WaitGroup
+	var mutex sync.Mutex
+	file, _ := os.OpenFile("./test/test", os.O_RDONLY, 666)
+	defer file.Close()
+	fw := bufio.NewReader(file)
+	for i := 1; i <= 2; i++ {
+		go func (index int)  {
+			defer wg.Done()
+			mutex.Lock()
+			for {
+				str, err := fw.ReadString('\n')
+				if err != nil {
+					if err == io.EOF {
+						break
+					}
+					fmt.Println(err.Error())
+				}
+			    fmt.Printf("协程%d:%s", index, str)
+			}
+			mutex.Unlock()
+		} (i)
+	}
+	
+	wg.Add(2)
+	wg.Wait()
+	fmt.Println("读取成功")
 
 	// num := 100000000
 	// start := time.Now()
@@ -64,22 +96,22 @@ func main()  {
 	// c1 <- true
 	// fmt.Println(ret)
 
-	url := "https://news.cnblogs.com/n/page/%d/"
+	// url := "https://news.cnblogs.com/n/page/%d/"
 
-	c := make(chan map[int][]byte)
-	for i := 1; i <= 3; i++ {
-		go func (index int)  {
-		    url := fmt.Sprintf(url, index)
-	        res, _ := http.Get(url)
-		    cnt, _ := ioutil.ReadAll(res.Body)
-		    c <- map[int][]byte{index:cnt}
-		} (i)
-	}
-	for getcnt := range c {
-		for k, v := range getcnt {
-		    ioutil.WriteFile(fmt.Sprintf("./files/%d", k), v, 666)
-		}
-	}
+	// c := make(chan map[int][]byte)
+	// for i := 1; i <= 3; i++ {
+	// 	go func (index int)  {
+	// 	    url := fmt.Sprintf(url, index)
+	//         res, _ := http.Get(url)
+	// 	    cnt, _ := ioutil.ReadAll(res.Body)
+	// 	    c <- map[int][]byte{index:cnt}
+	// 	} (i)
+	// }
+	// for getcnt := range c {
+	// 	for k, v := range getcnt {
+	// 	    ioutil.WriteFile(fmt.Sprintf("./files/%d", k), v, 666)
+	// 	}
+	// }
 
 	// end := time.Now()
 	// fmt.Println(end.Sub(start), ret1 + ret2)
